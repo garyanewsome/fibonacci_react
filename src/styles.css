@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Grandstander:wght@400;600&display=swap");
+
+.App {
+  width: 90%;
+  margin: 0 auto;
+  font-family: Grandstander, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: #444466;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+.label {
+  width: 100%;
+  color: #787878;
+}
+
+input[type="number"] {
+  width: 256px;
+  padding: 16px 24px;
+  margin: 16px 0;
+  border: 1px solid #888888;
+  border-radius: 16px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.results {
+  width: 80%;
+  margin: 16px auto;
+  text-align: center;
+  color: #450078;
+}
